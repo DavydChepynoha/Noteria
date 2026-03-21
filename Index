@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Effective date: 2026</p>
+
+    <h2>Information We Collect</h2>
+    <p>We may collect email, device information and usage data.</p>
+
+    <h2>How We Use Information</h2>
+    <p>To provide app functionality, authentication and advertising.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>We use Firebase and Google AdMob.</p>
+
+    <h2>Contact</h2>
+    <p>noteriamail@email.com</p>
+</body>
+</html>
